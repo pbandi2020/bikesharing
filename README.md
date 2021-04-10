@@ -26,4 +26,10 @@ The dashboard is built using certain key performance indicators that would provi
 The dashboard was built using Tableau Public account and for data transformation used Pandas.
 
 ## Summary 
+In this dashboard our focus is on a single month and the most busiest month. On order for an investor to get a good understanding of the business model I suggest the following,
+1.  Ride count by month for the whole year - This helps the investors understand the high and low points and help plan staffing and other logistics that will help with cost savings
+2.  A financial report by month that would show  Total cost of all rides, Total ride count, Breakdown on expenses to help analyze the profits
+
+
+4.  
 
