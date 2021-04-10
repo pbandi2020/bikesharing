@@ -24,8 +24,8 @@ The dashboard is built using certain key performance indicators that would provi
  ## Tableau WorkSheet
  <table>
  <tr>   
-    <td align="center"> **Bike Checkout For All Riders** </td>
-    <td align="center"> **Bike Checkout By Gender** </td>
+  <td align="center"> <b> Bike Checkout For All Riders </b> </td>
+  <td align="center"> <b> Bike Checkout By Gender </b> </td>
   </tr> 
   <tr>   
     <td valign="top"> <img src="/Images/AllRiderCheckouttime.png" width="500" /> </td>
@@ -35,7 +35,7 @@ The dashboard is built using certain key performance indicators that would provi
 <table>
  <tr>   
     
-    <td align="center"> **Checkout By UserrType and Gender**</td>
+    <td align="center"> <b> Checkout By UserrType and Gender </b></td>
   </tr> 
   <tr>   
     
