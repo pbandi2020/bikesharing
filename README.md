@@ -21,6 +21,9 @@ The dashboard is built using certain key performance indicators that would provi
 6. Trip count by Weekdays per Hour - This view helps with understanding the most busy day in a week and the which times in the day is most busy
 7. Heat map based on Start and Stop times - Another view of busy times sliced by weendays and hours per day
 
+## Technology & Tools
+The dashboard was built using Tableau Public account and for data transformation used Pandas.
+
  ## Tableau WorkSheet
  <table>
  <tr>   
@@ -63,8 +66,7 @@ The dashboard is built using certain key performance indicators that would provi
   
   </tr>     
 </Table> 
-## Technology & Tools
-The dashboard was built using Tableau Public account and for data transformation used Pandas.
+
 
 ## Summary 
 In this dashboard our focus is on a single month and the most busiest month. On order for an investor to get a good understanding of the business model I suggest the following,
