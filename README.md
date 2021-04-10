@@ -45,8 +45,8 @@ The dashboard is built using certain key performance indicators that would provi
 </Table> 
 <table>
  <tr>   
-    <td align="center"> Peak Hours Summary </td>
-    <td align="center"> Usage by Start Location</td>
+  <td align="center"><b> Peak Hours Summary </b> </td>
+    <td align="center"> <b> Usage by Start Location </b></td>
   </tr> 
   <tr>   
     <td valign="top"> <img src="/Images/PeakHoursRideCount.png" width="500" /> </td>
@@ -55,12 +55,12 @@ The dashboard is built using certain key performance indicators that would provi
 </Table> 
 <table>
  <tr>   
-    <td align="center"> 2017 VBA_Challege output </td>
-    <td align="center"> 2018 VBA_Challege output</td>
+  <td align="center"> <b> Checkin Summary Sliced by Category and Weekdays </b> </td>
+    
   </tr> 
   <tr>   
-    <td valign="top"> <img src="/Resources/2017%20AllstocksAnalysisRefactor.png" width="500" /> </td>
-    <td valign="top"> <img src="/Resources/2018%20AllstocksAnalysisRefactor.png" width="500" /> </td>
+    <td valign="top"> <img src="/Images/StoptimeWeekdaysperdayByCategory.png" /> </td>
+  
   </tr>     
 </Table> 
 ## Technology & Tools
