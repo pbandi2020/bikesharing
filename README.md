@@ -34,12 +34,12 @@ The dashboard is built using certain key performance indicators that would provi
 </Table>
 <table>
  <tr>   
-    <td align="center"> 2017 VBA_Challege output </td>
-    <td align="center"> 2018 VBA_Challege output</td>
+    <td align="center"> Checkout By Gender </td>
+    <td align="center"> Checkout By UserrType and Gender</td>
   </tr> 
   <tr>   
-    <td valign="top"> <img src="/Resources/2017%20AllstocksAnalysisRefactor.png" width="500" /> </td>
-    <td valign="top"> <img src="/Resources/2018%20AllstocksAnalysisRefactor.png" width="500" /> </td>
+    <td valign="top"> <img src="/Images/CheckouttimebyGender.png" width="500" /> </td>
+    <td valign="top"> <img src="/Images/WeekdayridesummaryByGenderandUsertype.png" width="500" /> </td>
   </tr>     
 </Table> 
 <table>
