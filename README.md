@@ -12,7 +12,7 @@ The dashboard is built using certain key performance indicators that would provi
 3.  The Dashboard is build with filters to help the investors slice and dice the information. The filters avaibale are Gender and Hours per day
 4.  Use the following link to access the dashboard - [Bike Sharing Program Analysis Report for NYC](https://public.tableau.com/profile/prathima.bandi#!/vizhome/NYCCitiBikeAnalysisReport/NYCCitiBikeAnalysisDashboard?publish=yes)
 
-## Summary of vizualization layers included in the dashboard
+### Summary of vizualization layers included in the dashboard
 1. Peak Hours in which the bikes are used for the month of August - This chart provides the investors a view of busy times to plan on staffing
 2. Average Trips by Gender
 3. Total Rides and utililation based on Trip Duration - This is very important to help maintain the equipment and understand the usage
@@ -21,10 +21,10 @@ The dashboard is built using certain key performance indicators that would provi
 6. Trip count by Weekdays per Hour - This view helps with understanding the most busy day in a week and the which times in the day is most busy
 7. Heat map based on Start and Stop times - Another view of busy times sliced by weendays and hours per day
 
-## Technology & Tools
+### Technology & Tools
 The dashboard was built using Tableau Public account and for data transformation used Pandas.
 
- ## Tableau WorkSheet
+### Tableau WorkSheet
  <table>
  <tr>   
   <td align="center"> <b> Bike Checkout For All Riders </b> </td>
@@ -73,6 +73,5 @@ In this dashboard our focus is on a single month and the most busiest month. On 
 1.  Ride count by month for the whole year - This helps the investors understand the high and low points and help plan staffing and other logistics that will help with cost savings
 2.  A financial report by month that would show  Total cost of all rides, Total ride count, Breakdown on expenses to help analyze the profits
 
-
-4.  
+ 
 
