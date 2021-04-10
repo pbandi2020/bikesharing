@@ -28,7 +28,7 @@ The dashboard is built using certain key performance indicators that would provi
     <td align="center"> **Bike Checkout By Gender** </td>
   </tr> 
   <tr>   
-    <td valign="top"> <img src="/Images/AllRiderCheckouttime.png" width="900" /> </td>
+    <td valign="top"> <img src="/Images/AllRiderCheckouttime.png" width="500" /> </td>
     <td valign="top"> <img src="/Images/CheckouttimebyGender.png" width="500" /> </td>
   </tr>     
 </Table>
