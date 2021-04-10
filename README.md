@@ -21,14 +21,14 @@ The dashboard is built using certain key performance indicators that would provi
 6. Trip count by Weekdays per Hour - This view helps with understanding the most busy day in a week and the which times in the day is most busy
 7. Heat map based on Start and Stop times - Another view of busy times sliced by weendays and hours per day
 
- ##Tableau WorkSheet
+ ## Tableau WorkSheet
  <table>
  <tr>   
     <td align="center"> Bike Checkout For All Riders </td>
     
   </tr> 
   <tr>   
-    <td valign="top"> <img src="/Images/AllRiderCheckouttime.png" width="500" /> </td>
+    <td valign="top"> <img src="/Images/AllRiderCheckouttime.png" width="900" /> </td>
     
   </tr>     
 </Table>
