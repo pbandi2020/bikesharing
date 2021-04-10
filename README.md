@@ -24,21 +24,21 @@ The dashboard is built using certain key performance indicators that would provi
  ## Tableau WorkSheet
  <table>
  <tr>   
-    <td align="center"> Bike Checkout For All Riders </td>
-    
+    <td align="center"> **Bike Checkout For All Riders** </td>
+    <td align="center"> **Bike Checkout By Gender** </td>
   </tr> 
   <tr>   
     <td valign="top"> <img src="/Images/AllRiderCheckouttime.png" width="900" /> </td>
-    
+    <td valign="top"> <img src="/Images/CheckouttimebyGender.png" width="500" /> </td>
   </tr>     
 </Table>
 <table>
  <tr>   
-    <td align="center"> Checkout By Gender </td>
-    <td align="center"> Checkout By UserrType and Gender</td>
+    
+    <td align="center"> **Checkout By UserrType and Gender**</td>
   </tr> 
   <tr>   
-    <td valign="top"> <img src="/Images/CheckouttimebyGender.png" width="500" /> </td>
+    
     <td valign="top"> <img src="/Images/WeekdayridesummaryByGenderandUsertype.png" width="500" /> </td>
   </tr>     
 </Table> 
