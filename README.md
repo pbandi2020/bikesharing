@@ -35,9 +35,12 @@ The dashboard is built using certain key performance indicators that would provi
 <table>
   <tr>   
      <td align="center"> <b> Bike Checkout By UserType and Gender Sliced by Weekdays </b></td>
+     <td align="center"> <b> Bike Checkin by Weekdays per Hour</b></td>
   </tr> 
   <tr>   
     <td valign="top"> <img src="/Images/WeekdayridesummaryByGenderandUsertype.png" width="500" /> </td>
+    <td valign="top"> <img src="/Images/StoptimeWeekdaysperday.png" width="500" /> </td>
+   
   </tr>     
 </Table> 
 <table>
