@@ -12,6 +12,9 @@ The dashboard is built using certain key performance indicators that would provi
 3.  The Dashboard is build with filters to help the investors slice and dice the information. The filters avaibale are Gender and Hours per day
 4.  Use the following link to access the dashboard - [Bike Sharing Program Analysis Report for NYC](https://public.tableau.com/profile/prathima.bandi#!/vizhome/NYCCitiBikeAnalysisReport/NYCCitiBikeAnalysisDashboard?publish=yes)
 
+## Technology & Tools
+The dashboard was built using Tableau Public account and for data transformation used Pandas.
+
 ## Summary 
 Following are the vizualization layers included in the dashboard
 1. Peak Hours in which the bikes are used for the month of August - This chart provides the investors a view of busy times to plan on staffing
